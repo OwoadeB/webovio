@@ -1,0 +1,155 @@
+main {
+  padding: 2rem 0;
+}
+main h2 {
+  font-size: 3.6rem;
+  font-weight: 300;
+  color: #4D533C;
+}
+.wwd {
+  padding-bottom: 6rem;
+}
+.wwd > div {
+  display: flex;
+  align-items: flex-end;
+}
+
+main .wwd h2 {
+  font-size: 3.6rem;
+  width: 80%;
+  font-weight: 300;
+  margin-bottom: 3rem;
+  color: #4D533C;
+}
+
+.wwd_l {
+  width: 50%;
+  padding: 3rem 0;
+}
+
+.wwd_l p {
+  color: #4D533CE6;
+}
+.wwd_l span {
+  display: block;
+  color: #21384299;
+  margin-bottom: 4rem;
+  width: 90%;
+  font-size: 1.6rem;
+  line-height: 2.6rem;
+}
+
+.wwd_l a {
+  color: #D4D6D4;
+  font-size: 1.6rem;
+}
+
+.wwd_r {
+  width: 40%;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 100px 100px #00000025;
+  padding: 2.5rem;
+  height: 50.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.wwd_r img {
+  width: 10rem;
+}
+
+.wwd_r p {
+  font-size: 2.4rem;
+  color: #4D533C;
+  font-weight: 100;
+  line-height: 4rem;
+}
+
+.projects__title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 11rem;
+}
+
+.projects__title h2 {
+  margin-right: 9rem;
+  width: 30%;
+}
+
+.projects__title span {
+  font-size: 16px;
+  color: #21384299;
+  line-height: 26px; 
+  width: 48%;
+}
+
+.projects__sample {
+  display: flex;
+  align-items: center;
+}
+
+.projects__sample > div {
+  width: 50%;
+}
+
+.projects__sample h2 {
+  line-height: 42px;
+  margin-bottom: 2rem;
+}
+
+.projects__sample span {
+  font-size: 1.6rem;
+  line-height: 26px;
+  display: block;
+  margin-bottom: 9rem;
+  width: 75%;
+  color: #21384299;
+}
+
+.projects__sample a {
+  color: #D4D6D4;
+  font-size: 1.6rem;
+}
+
+.deation__services p {
+  line-height: 34px;
+  font-size: 2.4rem;
+  color: #4D533C;
+  margin-bottom: 2.3rem;
+}
+
+.deation__services span {
+  font-size: 1.4rem;
+  color: #21384299;
+  display: inline-block;
+  margin-bottom: 5rem;
+}
+
+.deation__services a {
+  color: #D4D6D4;
+  font-size: 1.6rem;
+}
+
+.deation__services > div {
+  width: 23%;
+  padding: 3rem;
+}
+.deation__services > div:first-of-type {
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 50px 50px 100px #00000025;
+  border-radius: 4px;
+}
+
+.projects__sample__img  img{
+  width: 100%;
+}
+
+.projects__sample__text {
+  padding-left: 8rem;
+}
+
+
+section {
+  padding: 10rem 0;
+}

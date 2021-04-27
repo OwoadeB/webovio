@@ -1,0 +1,54 @@
+.header {
+  height: 90vh;
+  width: 100%;
+  background-image: url('../../assets/img/bcg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header__main {
+  width: 80%;
+  margin: 0 auto;
+  padding: 2rem 4rem;
+}
+
+.header__nav {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10rem;
+}
+
+.header__nav img {
+  height: 32px;
+  cursor: pointer;
+}
+
+.header__content {
+  color: #FFF;
+}
+
+.header__content_excerpt {
+  font-size: 1.4rem;
+  margin-bottom: 3.5rem;
+  font-weight: 100;
+}
+
+.header__content h1 {
+  font-size: 6rem;
+  margin-bottom: 8.5rem;
+  width: 61.6rem;
+  font-weight: 300;
+}
+
+.header__content_intro {
+  font-size: 1.6rem;
+  margin-bottom: 3.5rem;
+  width: 58.1rem;
+  font-weight: 100;
+}
+
+.header__content a {
+  color: #FFD723;
+  font-size: 1.6rem;
+}
